@@ -4235,7 +4235,7 @@ CONFIG_hellopm=y
 #
 # packagegroup-petalinux-audio 
 #
-# CONFIG_packagegroup-petalinux-audio is not set
+CONFIG_packagegroup-petalinux-audio=y
 # CONFIG_packagegroup-petalinux-audio-dbg is not set
 # CONFIG_packagegroup-petalinux-audio-dev is not set
 
@@ -4361,7 +4361,7 @@ CONFIG_hellopm=y
 #
 # packagegroup-petalinux-x11 
 #
-# CONFIG_packagegroup-petalinux-x11 is not set
+CONFIG_packagegroup-petalinux-x11=y
 # CONFIG_packagegroup-petalinux-x11-dev is not set
 # CONFIG_packagegroup-petalinux-x11-dbg is not set
 
@@ -4375,7 +4375,7 @@ CONFIG_hellopm=y
 #
 # packagegroup-petalinux-xfce 
 #
-# CONFIG_packagegroup-petalinux-xfce is not set
+CONFIG_packagegroup-petalinux-xfce=y
 # CONFIG_packagegroup-petalinux-xfce-dbg is not set
 # CONFIG_packagegroup-petalinux-xfce-dev is not set
 
